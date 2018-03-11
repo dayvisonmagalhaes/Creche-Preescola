@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CrecheePreescola</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="diario_titulo_presenca">Presente?</string>
+    <string name="lista_alunos_titulo">Lista de alunos</string>
+    <string name="diario_titulo_inicial">Diário do aluno:</string>
+     <string name="diario_titulo_refeições">Refeições</string>
+    <string name="diario_titulo_mamadeira">Mamadeira?</string>
+    <string name="diario_lanche_manha">Lanche da Manhã?</string>
+    <string name="diario_almoco">Almoço?</string>
+    <string name="diario_lanche_da_tarde">Lanche da tarde?</string>
+    <string name="diario_jantar">Jantar?</string>
+    <string name="diario_titulo_remedios">Remédios?</string>
+    <string name="diario_titulo_participacao">Participação nas atividades?</string>
+    <string name="diario_titulo_sono">Sono:</string>
+    <string name="diario_sono_tempo">Quanto tempo/</string>
+    <string name="diario_titulo_evacuacao">Evacuação:</string>
+    <string name="diario_evacuacao_intensidade">Intensidade?</string>
+    <string name="diario_titulo_resumo_dia">Resumo do dia?</string>
+
+
+</resources>

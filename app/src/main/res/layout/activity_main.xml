@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    tools:context="crecheepreescola.com.br.crecheepreescola.activity.MainActivity">
+
+
+    <fragment  android:id="@+id/ListaDealunos"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        class="crecheepreescola.com.br.crecheepreescola.fragment.ListaDeAlunos_frag"
+        tools:layout="@layout/fragment_lista_de_alunos_frag"
+        android:layout_weight="6"
+        />
+
+    <fragment  android:id="@+id/Diario_Frag"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        class="crecheepreescola.com.br.crecheepreescola.fragment.Diario_frag"
+        tools:layout="@layout/fragment_diario_frag"
+        android:layout_weight="4"
+        />
+
+
+
+
+</LinearLayout>
