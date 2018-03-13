@@ -14,7 +14,9 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:text="@string/lista_alunos_titulo" />
+            android:text="@string/lista_alunos_titulo"
+            android:textSize="18dp"
+            android:background="@android:color/holo_blue_dark"/>
 
 
         <ListView
