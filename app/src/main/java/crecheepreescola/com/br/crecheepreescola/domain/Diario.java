@@ -1,4 +1,4 @@
-package crecheepreescola.com.br.crecheepreescola.activity.domain;
+package crecheepreescola.com.br.crecheepreescola.domain;
 
 import java.util.Date;
 

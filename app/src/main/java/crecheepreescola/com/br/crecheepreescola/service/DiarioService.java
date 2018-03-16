@@ -1,4 +1,4 @@
-package crecheepreescola.com.br.crecheepreescola.activity.domain;
+package crecheepreescola.com.br.crecheepreescola.service;
 
 /**
  * Created by Dayvison_Not on 13/03/2018.
