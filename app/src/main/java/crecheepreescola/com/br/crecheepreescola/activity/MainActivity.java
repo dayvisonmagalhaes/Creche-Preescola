@@ -22,6 +22,6 @@ public class MainActivity extends BaseActivity {
     }
 
     //private void replaceFragment (Fragment frag){
-     //   getSupportFragmentManager().beginTransaction().replace(R.id.listViewContainer,frag, "TAG").commit();
+     //t   getSupportFragmentManager().beginTransaction().replace(R.id.listViewContainer,frag, "TAG").commit();
     //}
 }
